@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baris2641
-- 👀 I’m interested in ...
-- 🌱 I’m currenwtly learning to c# and css5 ..
+- 👀 I’m interested in web develop ...
+- 🌱 I’m currenwtly learning to c# ..
 - 📫 How to reach me
 baris2001isik@gmail.com
 
