@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Barış and I'm a Software Developer, from Turkiye🔥🔥</h2>
+<h2 align="left">Hi 👋! My name is Barış and I'm a Software Developer, from Turkey</h2>
 
 ###
 
