@@ -37,4 +37,6 @@
   <img height="200" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
 </div>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baris2641&show_icons=true&theme=dark&locale=en&layout=compact" alt="baris2641" /></p>
+
 ###
